@@ -6,7 +6,7 @@ Meals-App project code is written in vanilla JavaScript that uses TheMealDB API 
 - **Search for Meals:** Enter a keyword to search for meals based on your preferences.
 - **Favourite Meals:** Click on a Favourite Meals to view list of selected meals.
 - **Meal Details:** Click on a meal to view its details, including ingredients and instructions.
-- **Empty Cart:** Get a random meal suggestion if you're feeling adventurous.
+- **Reset Cart:** Removed all selected Favourite Meals.
 
 
 ## Technologies Used
