@@ -21,3 +21,6 @@ Meals-App project code is written in vanilla JavaScript that uses TheMealDB API 
 
    ```bash
    git clone https://github.com/roshaninfy/Meals-App.git
+
+# Hosted Code
+    The code is hosted on GitHub at https://roshaninfy.github.io/Meals-App/
